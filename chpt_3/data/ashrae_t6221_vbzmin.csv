@@ -1,0 +1,79 @@
+Facility,Category,Rp (Ls/person),Ra (L/sm^2),Occupant Density (persons/100m^2),Combined Outdoor Air Rate (L/sperson),Air Class
+Correctional,Cell,2.5,0.6,25,4.9,2
+Correctional,Dayroom,2.5,0.3,30,3.5,1
+Correctional,Guard station,2.5,0.3,15,4.5,1
+Correctional,Booking/waiting,3.8,0.3,50,4.4,2
+Educational,Daycare (through age 4),5,0.9,25,8.6,2
+Educational,Daycare sickroom,5,0.9,25,8.6,3
+Educational,Classrooms (age 5-8),5,0.6,25,7.4,1
+Educational,Classrooms (age 9 plus),5,0.6,35,6.7,1
+Educational,Lecture classroom,3.8,0.3,65,4.3,1
+Educational,Lecture hall (fixed seats),3.8,0.3,150,4,1
+Educational,Art classroom,5,0.9,20,9.5,2
+Educational,Science laboratories,5,0.9,25,8.6,2
+Educational,University/college laboratories,5,0.9,25,8.6,2
+Educational,Wood/metal shop,5,0.9,20,9.5,2
+Educational,Computer lab,5,0.6,25,7.4,1
+Educational,Media center,5,0.6,25,7.4,1
+Educational,Music/theater/dance,5,0.3,35,5.9,1
+Educational,Multiuse assembly,3.8,0.3,100,4.1,1
+Food and beverage,Resturant dining rooms,3.8,0.9,70,5.1,2
+Food and beverage,Cafeteria/fast-food dining,3.8,0.9,100,4.7,2
+Food and beverage,"Bars, cocktail lounges",3.8,0.9,100,4.7,2
+Food and beverage,Kitchen (cooking),3.8,0.6,20,7,2
+General,Break rooms,2.5,0.3,25,3.5,1
+General,Coffee stations,2.5,0.3,20,4,1
+General,Conference/meeting,2.5,0.3,50,3.1,1
+General,Corridors,0,0.3,0,0,1
+General,Occupiable storage rooms for liquids or gels,2.5,0.6,2,32.5,2
+"Hotels, motels, resorts, dormitories",Bedroom/living room,2.5,0.3,10,5.5,1
+"Hotels, motels, resorts, dormitories",Barracks sleeping areas,2.5,0.3,20,4,1
+"Hotels, motels, resorts, dormitories","Laundry rooms, central",2.5,0.6,10,8.5,2
+"Hotels, motels, resorts, dormitories",Laundry rooms within dwelling units,2.5,0.6,10,8.8,1
+"Hotels, motels, resorts, dormitories",Lobbies/prefunction,3.8,0.3,30,4.8,1
+"Hotels, motels, resorts, dormitories",Multipurpose assembly,2.5,0.3,120,2.8,1
+Office,Breakrooms,2.5,0.6,50,3.5,1
+Office,Main entry lobbies,2.5,0.3,10,5.5,1
+Office,Occupiable storage rooms for dry materials,2.5,0.3,2,17.5,1
+Office,Office space,2.5,0.3,5,8.5,1
+Office,Reception areas,2.5,0.3,30,3.5,1
+Office,Telephone/data entry,2.5,0.3,60,3,1
+Miscellaneous,Bank vaults/safe deposit,2.5,0.3,5,8.5,2
+Miscellaneous,Banks or bank lobbies,3.8,0.3,15,6,1
+Miscellaneous,Computer (not printing),2.5,0.3,4,10,1
+Miscellaneous,Freezer and refrigerated spaces,5,0,0,0,2
+Miscellaneous,General manufacturing,5,0.3,7,18,3
+Miscellaneous,Pharmacy (prep. area),2.5,0.9,10,11.5,2
+Miscellaneous,Photo studios,2.5,0.6,10,8.5,1
+Miscellaneous,Shipping/receiving,5,0.6,2,35,2
+Miscellaneous,"Sorting, packing, light assembly",3.8,0.6,7,12.5,2
+Miscellaneous,Telephone closets,0,0,0,0,1
+Miscellaneous,Transportation waiting,3.8,0.3,100,4.1,1
+Miscellaneous,Warehouses,5,0.3,0,0,2
+Public assembly,Auditorium seating area,2.5,0.3,150,2.7,1
+Public assembly,Places of religious worship,2.5,0.3,120,2.8,1
+Public assembly,Courtrooms,2.5,0.3,70,2.9,1
+Public assembly,Legislative chambers,2.5,0.3,50,3.1,1
+Public assembly,Libraries,2.5,0.6,10,8.5,1
+Public assembly,Lobbies,2.5,0.3,150,2.7,1
+Public assembly,Museums (children's),3.8,0.6,40,5.3,1
+Public assembly,Museums/galleries,3.8,0.3,40,4.6,1
+Residential,Dwelling unit,2.5,0.3,NA,0,1
+Residential,Common corridors,0,0.3,0,0,1
+Retail,Sales,3.8,0.6,15,7.8,2
+Retail,Mall common areas,3.8,0.3,40,4.6,1
+Retail,Barbershop,3.8,0.3,25,5,2
+Retail,Beauty and nail salons,10,0.6,25,12.4,2
+Retail,Pet shops (animal areas),3.8,0.9,10,12.8,2
+Retail,Supermarket,3.8,0.3,8,7.6,1
+Retail,Coin-operated laundries,3.8,0.6,20,7,2
+Sports and entertainment,"Gym, sports arena (play area)",10,0.9,7,23,2
+Sports and entertainment,Spectator areas,3.8,0.3,150,4,1
+Sports and entertainment,Swimming (pool & deck),0,2.4,0,0,2
+Sports and entertainment,Disco/dance floors,10,0.3,100,10.3,2
+Sports and entertainment,Health club/aerobics room,10,0.3,40,10.8,2
+Sports and entertainment,Health club/weight rooms,10,0.3,10,13,2
+Sports and entertainment,Bowling alley (seating),5,0.6,40,6.5,1
+Sports and entertainment,Gambling casinos,3.8,0.9,120,4.6,1
+Sports and entertainment,Game arcades,3.8,0.9,20,8.3,1
+Sports and entertainment,"Stages, studios",5,0.3,70,5.4,1

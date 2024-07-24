@@ -1,0 +1,35 @@
+Room Number,Category,Area (m^2),Design Occupancy,x,y,md,co2,vav,ahu
+0,Corridors,200,0,1107,782,,,,
+101,Office space,29.8,8,1244,746,,,VAV_16,2
+102,Office space,19.5,1,1311,834,,102_CO2,VAV_17,2
+103,Office space,9.8,2,1415,834,,,VAV_17,2
+104,Office space,31.9,14,1496,776,,104_CO2,VAV_18,2
+105,Computer lab,105.7,52,1507,521,,105_CO2,VAV_04,2
+107,Office space,106.3,36,1198,521,,107_CO2,VAV_08,2
+109,Office space,30.2,7,1000,521,,109_CO2,VAV_06,2
+111,Computer lab,120.7,44,786,521,,111_CO2,VAV_05,1
+112,Office space,28.2,10,540,567,,112_CO2,VAV_03,1
+201,Office space,12,1,526,661,201_MD,201_CO2,VAV_02,1
+202,Office space,12,1,526,734,202_MD,202_CO2,VAV_02,1
+203,Office space,12,1,526,805,203_MD,203_CO2,VAV_02,1
+204,Office space,12,1,526,876,204_MD,204_CO2,VAV_02,1
+205,Office space,12,1,526,942,205_MD,205_CO2,VAV_01,1
+206,Office space,12,1,526,1015,206_MD,206_CO2,VAV_01,1
+207,Office space,18.7,6,540,1125,207_MD,,VAV_01,1
+301,Computer lab,144,86,878,969,,301_CO2,VAV_12,1
+302,Office space,14.3,1,1186,834,,,VAV_17,2
+303,Office space,8.3,1,1123,921,,,VAV_15,2
+304,Office space,9,1,1123,996,,,VAV_15,2
+305,Office space,9,1,1123,1075,,305_CO2,VAV_15,2
+306,Office space,9,1,1123,1153,,306_CO2,VAV_15,2
+307,Office space,14.9,1,1123,1236,307_MD,307_CO2,VAV_14,1
+308,Office space,12.5,1,1030,1259,,308_CO2,VAV_13,1
+309,Office space,12.5,1,940,1246,,,VAV_13,1
+310,Office space,11.4,1,848,1226,,310_CO2,VAV_13,1
+311,Office space,8,1,757,1226,,311_CO2,VAV_13,1
+911,Occupiable storage rooms for dry materials,14.4,0,965,794,,,,
+912,Occupiable storage rooms for dry materials,14.4,0,867,794,,,,
+913,Occupiable storage rooms for dry materials,11.8,0,744,773,,,,
+914,Occupiable storage rooms for dry materials,13.3,0,671,751,,,,
+915,Occupiable storage rooms for dry materials,5.1,0,671,825,,,,
+916,Occupiable storage rooms for dry materials,28.2,0,671,892,,,,
