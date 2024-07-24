@@ -1,0 +1,72 @@
+#U-value#
+!- U-Factor {W/m2-K}
+
+#shgc#
+!- Solar Heat Gain Coefficient
+
+#thickness#
+I02 50mm insulation board
+!- Thickness {m}
+
+#infiltration#
+!- Flow per Exterior Surface Area {m3/s-m2}
+
+#ventilation# (times 30 each)
+!- Outdoor Air Flow per Zone Floor Area {m3/s-m2}
+!- Outdoor Air Flow Rate per Zone Floor Area {m3/s-m2} # depreciated??
+
+#tSaHtg1#
+    AHU1,                    !- AirLoop Name
+!- Central Heating Design Supply Air Temperature {C}
+    AHU1 Cooling Supply Air Temp Manager,  !- Name
+!- Maximum Setpoint Temperature {C}
+    AHU1 Heating Supply Air Temp Manager,  !- Name
+!- Setpoint at Outdoor Low Temperature {C}
+
+#tSaHtg2#
+    AHU2,                    !- AirLoop Name
+!- Central Heating Design Supply Air Temperature {C}
+    AHU2 Cooling Supply Air Temp Manager,  !- Name
+!- Maximum Setpoint Temperature {C}
+    AHU2 Heating Supply Air Temp Manager,  !- Name
+!- Setpoint at Outdoor Low Temperature {C}
+
+#tSaClg1#
+    AHU1,                    !- AirLoop Name
+!- Central Cooling Design Supply Air Temperature {C}
+    AHU1 Cooling Supply Air Temp Manager,  !- Name
+!- Minimum Setpoint Temperature {C}
+    AHU1 Heating Supply Air Temp Manager,  !- Name
+!- Setpoint at Outdoor High Temperature {C}
+
+#tSaClg2#
+    AHU2,                    !- AirLoop Name
+!- Central Cooling Design Supply Air Temperature {C}
+    AHU2 Cooling Supply Air Temp Manager,  !- Name
+!- Minimum Setpoint Temperature {C}
+    AHU2 Heating Supply Air Temp Manager,  !- Name
+!- Setpoint at Outdoor High Temperature {C}
+
+#tOaLow1# (default -6.7)
+!- Outdoor Low Temperature {C}
+
+#tOaHigh1# (default 10)
+!- Outdoor High Temperature {C}
+
+#tOaLow2# (default -6.7)
+!- Outdoor Low Temperature {C}
+
+#tOaHigh2# (default 10)
+!- Outdoor High Temperature {C}
+
+#lightPlugMax#
+    Lights,
+!- Watts per Zone Floor Area {W/m2}
+    ElectricEquipment,
+!- Watts per Zone Floor Area {W/m2}
+    lightPlugPG,             !- Name
+set lightPlugMax
+
+#lightplugMin# 
+    lightPlugPG,             !- Name
+set lightPlugMin
